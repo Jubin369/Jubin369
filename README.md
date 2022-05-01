@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Connect with me  
 <div align="center">
 <a href="https://twitter.com/jubin369" target="_blank">
-<img src=https://img.shields.io/badge/renecapella-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/jubin-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/jubin-ayoob/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
