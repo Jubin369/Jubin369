@@ -8,8 +8,8 @@
 
 ### My Projects...
 
-  * Nodejs ToDoList - (https://github.com/Jubin369/NodeJs-To-do-list)
-  * React IPL Data project - (https://github.com/Jubin369/Jubin_IPL_Project)
+  * <a href="https://github.com/Jubin369/NodeJs-To-do-list" target="_blank"> Nodejs ToDoList - </a>
+  * <a href="https://github.com/Jubin369/Jubin_IPL_Project" target="_blank"> React IPL Data project </a>
 
 <!-- **Jubin369/Jubin369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
