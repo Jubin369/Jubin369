@@ -9,6 +9,7 @@
 ### My Projects...
 
   * Nodejs ToDoList - (https://github.com/Jubin369/NodeJs-To-do-list)
+  * React IPL Data project - (https://github.com/Jubin369/Jubin_IPL_Project)
 
 <!-- **Jubin369/Jubin369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
