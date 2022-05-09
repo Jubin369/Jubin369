@@ -11,7 +11,9 @@
   * <a href="https://github.com/Jubin369/NodeJs-To-do-list" target="_blank"> Nodejs ToDoList</a>
   * <a href="https://github.com/Jubin369/Memory-Game" target="_blank"> Nodejs,Jquery Memory game</a>
   * <a href="https://github.com/Jubin369/Chess-Game" target="_blank"> Nodejs,Jquery Chess game</a>
-  * <a href="https://github.com/Jubin369/React-IPL-Player-Detail" target="_blank"> React IPL player detail</a>
+  * <a href="https://github.com/Jubin369/React-IPL-Player-Detail" target="_blank"> Reactjs IPL player data project</a>
+  * <a href="https://github.com/Jubin369/NodeJs-IPL-graph-data-project" target="_blank"> Nodejs IPL graph data project</a>
+  * <a href="https://github.com/Jubin369/SimpleCalculatorAndroid" target="_blank"> Android Calculater</a>
   * <a href="https://github.com/Jubin369/Jubin_IPL_Project" target="_blank"> Node to json IPL Data project </a>
   * <a href="https://github.com/Jubin369/Cracker-Rank" target="_blank"> Reactjs Cracker-Rank (group project) </a>
 
