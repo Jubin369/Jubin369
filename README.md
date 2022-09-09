@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 </div> 
 
 ### Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/karanoza/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/jubin369/count.svg)
