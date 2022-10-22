@@ -48,13 +48,17 @@ Here are some ideas to get you started:
 <details>
   <summary>🖱️ Most used languages</summary>
   <br>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubin369)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </details>
 
 <details>
   <summary>💹 Github Activity Graph</summary>
   <br>
+ 
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jubin369&theme=dracula)
+ 
 </details>
 
 
