@@ -62,6 +62,14 @@ Here are some ideas to get you started:
 </details>
 
 
+<details>
+  <summary>Profile Visits</summary>
+  <br>
+
+![Visitor Count](https://profile-counter.glitch.me/jubin369/count.svg)
+
+</details>
+
 ### Connect with me  
 <div align="center">
 <a href="https://twitter.com/jubin369" target="_blank">
@@ -80,11 +88,3 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div> 
-
-<details>
-  <summary>Profile Visits</summary>
-  <br>
-
-![Visitor Count](https://profile-counter.glitch.me/jubin369/count.svg)
-
-</details>
