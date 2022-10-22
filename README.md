@@ -1,7 +1,7 @@
 <!-- 
 ### Hi there, I'm Jubin 👋
  -->
- <a href="https://app.daily.dev/jubin369"><img src="https://github.com/jubin369/jubin369/blob/master/devcard.svg" width="400" alt="JuBin Ayoob's Dev Card"/></a>
+ <a href="https://app.daily.dev/jubin369"><img src="https://github.com/jubin369/jubin369/blob/main/devcard.svg" width="400" alt="JuBin Ayoob's Dev Card"/></a>
 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Jubin+👋;Find+about+my+works+here...&color=8EB6E1&multiline=true&height=70)](https://git.io/typing-svg)
