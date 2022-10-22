@@ -10,7 +10,7 @@
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
  
  <details>
-  <summary>⚡ ### My Projects...</summary>
+  <summary>⚡ My Projects...</summary>
   <br>
 
 
@@ -37,11 +37,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+<details>
+  <summary>🔥 GitHub Stats</summary>
+  <br>
+[![Jubin's github stats](https://github-readme-stats.vercel.app/api?username=jubin369&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubin369)](https://github.com/anuraghazra/github-readme-stats)[![Jubin's github stats](https://github-readme-stats.vercel.app/api?username=jubin369&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>🖱️ Most used languages</summary>
+  <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubin369)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
+<details>
+  <summary>💹 Github Activity Graph</summary>
+  <br>
 ![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jubin369&theme=dracula)
-
+</details>
 
 
 ### Connect with me  
