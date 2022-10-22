@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <summary>💹 Github Activity Graph</summary>
   <br>
  
-![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jubin369&theme=dracula)
+![Jubin's github activity graph](https://activity-graph.herokuapp.com/graph?username=jubin369&theme=dracula)
  
 </details>
 
@@ -81,5 +81,10 @@ Here are some ideas to get you started:
 </a>
 </div> 
 
-### Profile Visits
+<details>
+  <summary>Profile Visits</summary>
+  <br>
+
 ![Visitor Count](https://profile-counter.glitch.me/jubin369/count.svg)
+
+</details>
