@@ -1,14 +1,37 @@
 <!-- 
 ### Hi there, I'm Jubin 👋
  -->
+ <!DOCTYPE html>
+<html>
+<head>
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+ <div class="grid-container">
+  <div class="grid-item">
  <a href="https://app.daily.dev/jubin369"><img src="https://github.com/jubin369/jubin369/blob/main/devcard.svg" width="400" alt="JuBin Ayoob's Dev Card"/></a>
+  </div>
 
- 
+ <div class="grid-item">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Jubin+👋;Find+about+my+works+here...&color=8EB6E1&multiline=true&height=70)](https://git.io/typing-svg)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Nextjs](https://img.shields.io/badge/nextjs-%23323330.svg?style=for-the-badge&logo=nextjs&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
+ </div>
+</div>
 ### My Projects...
 
   * <a href="https://github.com/Jubin369/NodeJs-To-do-list" target="_blank"> Nodejs ToDoList</a>
@@ -61,3 +84,6 @@ Here are some ideas to get you started:
 
 ### Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/jubin369/count.svg)
+
+</body>
+</html>
