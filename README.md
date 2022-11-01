@@ -37,6 +37,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
+ 
+ <details>
+  <summary>🏆 GitHub Trophies</summary>
+  <br>
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=jubin369&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+ </details>
+ 
 <details>
   <summary>🔥 GitHub Stats</summary>
   <br>
