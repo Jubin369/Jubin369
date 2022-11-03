@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   <summary>💹 Github Activity Graph</summary>
   <br>
  
-![Jubin's github activity graph](https://activity-graph.herokuapp.com/graph?username=jubin369&theme=dracula)
+![Jubin's github activity graph](https://activity-graph.herokuapp.com/graph?username=jubin369&theme=dracula&width=590px)
  
 </details>
 
