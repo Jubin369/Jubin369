@@ -21,7 +21,7 @@
   * <a href="https://github.com/Jubin369/NodeJs-IPL-graph-data-project" target="_blank"> Nodejs IPL graph data project</a>
   * <a href="https://github.com/Jubin369/SimpleCalculatorAndroid" target="_blank"> Android Calculater</a>
   * <a href="https://github.com/Jubin369/Jubin_IPL_Project" target="_blank"> Node to json IPL Data project </a>
-  * <a href="https://github.com/Jubin369/cracker-rank-nextjs" target="_blank"> Nextjs Cracker-Rank </a>
+  * <a href="https://github.com/Jubin369/Cracker-Rank" target="_blank"> Cracker-Rank(group project) </a>
  </details>
 
 <!-- **Jubin369/Jubin369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
